@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dmo51
 - 👀 I’m interested in ethical hacking
 - 🌱 I’m currently learning penetration testing
-- 💞️ I’m looking to collaborate on anything hacking related or python, java, C#
+- 💞️ I’m looking to collaborate on anything hacking related or python, java, and C#
 - 📫 How to reach me Mosquedad511@gmail.com
